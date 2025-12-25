@@ -1,87 +1,134 @@
-<h1 align="center">Hi, I'm Abdullah</h1>
-<h3 align="center">Computer Science Student | Systems • AI • Full Stack</h3>
+<h1 align="center">Abdullah Mansoor</h1>
 
 <p align="center">
-  <a href="https://github.com/NOOBBoy35">
-    <img src="https://komarev.com/ghpvc/?username=NOOBBoy35&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  Computer Science Undergraduate • Software Engineering • AI & Systems
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NOOBBoy35&label=Profile%20Views&color=0A66C2&style=flat-square"/>
 </p>
 
 ---
 
-##  About Me
-- 🎓 **Computer Science Undergraduate**
-- 💻 Strong foundation in **Algorithms, Operating Systems, and Parallel Computing**
-- 🤖 Building **AI-powered systems** (LLMs, RAG, Voice Bots)
-- 🌐 Full-stack developer with modern frameworks
-- 🚀 Focused on **scalable, real-world software**
+## 🧭 Overview
 
+```text
+CS Undergraduate @ GIKI
+Focus: Systems, AI, Parallel Computing, Scalable Software
+I build secure, scalable, and performance-oriented software systems — ranging from
+full-stack web platforms to machine learning models and GPU-accelerated programs.
+Strong foundation in algorithms, system design, and applied AI, combined with
+leadership experience in high-impact technical organizations.
+```
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Technical Skill Map
 
 ### Programming Languages
-![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
-
-### Systems & Parallel Computing
-- OpenMP
-- Pthreads
-- CUDA (GPU Computing)
-- Distributed Systems
-- Memory Optimization
-
-### AI / ML
-- Machine Learning Algorithms
-- LLMs (Mistral, Phi, OpenChat)
-- RAG Pipelines
-- Speech-to-Text (Whisper)
-- Text-to-Speech (Coqui TTS)
-
-### Web & Backend
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwindcss)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
-
----
-
-## 📌 Featured Projects
-
-### 🧠 3AM Talks – AI Mental Health Assistant
-> Voice-based AI therapist with emotion-aware responses  
-**Tech:** LLMs, Whisper.cpp, Coqui TTS, FastAPI, Next.js  
-🔗 *Private / In Development*
-
-### ⚙️ Parallel ML Algorithms
-> Parallelized K-Means & Linear Regression  
-**Tech:** C++, OpenMP, Pthreads  
-📊 Speedup & scalability analysis
-
-### 🧮 GPU Matrix Multiplication
-> Optimized CUDA kernels using shared & constant memory  
-**Tech:** CUDA, C++
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NOOBBoy35&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NOOBBoy35&theme=tokyonight" height="160"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
 </p>
 
 ---
 
-## 📫 Connect With Me
-- GitHub: **@NOOBBoy35**
-- Email: *(add if you want)*
+### Systems & Performance
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cuda,linux" />
+</p>
+
+- Parallel Computing (CUDA C/C++)
+- GPU Programming & Optimization
+- Performance Analysis & Benchmarking
 
 ---
 
-⭐ *Clean code, strong fundamentals, real systems.*
+### Machine Learning & AI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- TensorFlow, Keras
+- NumPy, SciPy, scikit-learn
+- Deep Learning (FNN, GRU, ResNet)
+- Data Preprocessing & Model Evaluation
+
+---
+
+### Web & App Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres" />
+</p>
+
+- React, React Native
+- REST APIs
+- PostgreSQL, SQL
+- Authentication (JWT, bcrypt)
+
+## 📦 Project Portfolio
+
+### ✈️ WingMate — Airline Reservation System
+<p>
+  <img src="https://img.shields.io/badge/Architecture-4+1_Model-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Security-AES--256%20%7C%20OWASP-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Uptime-99.9%25-success?style=flat-square"/>
+</p>
+
+- Scalable airline booking platform built with React & PostgreSQL
+- Secure authentication using JWT and bcrypt
+- Real-time flight search, seat allocation, booking workflows
+- Performance targets: ≤2s response time
+
+---
+
+### 📱 AttendGIK — Mobile LMS Application
+<p>
+  <img src="https://img.shields.io/badge/Platform-Mobile-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tested_Users-20+-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Engagement-+30%25-success?style=flat-square"/>
+</p>
+
+- React Native LMS for attendance and course management
+- Cloud-based authentication and push notifications
+- Designed to improve student engagement
+
+---
+
+### 🧠 Predictive Weight Classification Model
+<p>
+  <img src="https://img.shields.io/badge/Model-Hybrid_DL-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Classes-7-blue?style=flat-square"/>
+</p>
+
+- Built a 7-class predictive model using FNN, GRU, and ResNet
+- Trained on diverse international datasets
+- Focused on preprocessing, accuracy optimization, and generalization
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NOOBBoy35&show_icons=true&hide_border=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NOOBBoy35&hide_border=true&theme=github_dark" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NOOBBoy35&theme=github-dark&hide_border=true"/>
+</p>
+
+
+## 🏫 Leadership & Impact
+
+### NAQSH — Vice President
+- Led liaison operations for national-level events
+- Secured 380+ participants
+- Generated PKR 1.5M through sponsorships and negotiations
+
+---
+
+## 🎯 Areas of Interest
+
+```text
+High-Performance Computing
+Scalable Systems Architecture
+Applied Machine Learning
+AI-Driven Software Products
+```
