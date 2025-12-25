@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+%26+Systems+Engineer;Parallel+Computing+%7C+LLMs" />
-
+<h1 align="center">Hi, I'm Abdullah</h1>
 <h3 align="center">Computer Science Student | Systems • AI • Full Stack</h3>
 
 <p align="center">
@@ -10,7 +9,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 - 🎓 **Computer Science Undergraduate**
 - 💻 Strong foundation in **Algorithms, Operating Systems, and Parallel Computing**
 - 🤖 Building **AI-powered systems** (LLMs, RAG, Voice Bots)
